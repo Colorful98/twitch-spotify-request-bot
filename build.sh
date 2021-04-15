@@ -12,6 +12,10 @@ ENV=./.env
 
 echo "Checking if .env file exists...";
 	sleep 2
+	
+echo "Initializing npm...";
+	npm install
+		sleep 2
 
 if [ -f "$ENV" ]; then
 

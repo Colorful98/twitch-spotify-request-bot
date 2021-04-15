@@ -24,6 +24,7 @@ this is a bop can you please play this https://open.spotify.com/track/4uLU6hMCjM
   files)
 - Node (developed and tested on 14.6.0 - your mileage may vary on other versions)
 - Yarn or NPM
+- [PKG] (https://www.npmjs.com/package/pkg) 
 - A Spotify account
 
 ## Setup
